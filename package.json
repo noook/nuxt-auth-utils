@@ -59,6 +59,12 @@
     },
     "@simplewebauthn/server": {
       "optional": true
+    },
+    "@atproto/oauth-client-node": {
+      "optional": true
+    },
+    "@atproto/api": {
+      "optional": true
     }
   },
   "devDependencies": {
